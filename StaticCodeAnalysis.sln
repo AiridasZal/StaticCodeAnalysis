@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCodeAnalysis", "StaticCodeAnalysis.csproj", "{D0E85C86-EC8B-4E0B-8405-0D9612B5CD78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCodeAnalysis", "StaticCodeAnalysis.csproj", "{359075B7-2B86-4D83-ACAB-96C034FD77EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0E85C86-EC8B-4E0B-8405-0D9612B5CD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0E85C86-EC8B-4E0B-8405-0D9612B5CD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0E85C86-EC8B-4E0B-8405-0D9612B5CD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0E85C86-EC8B-4E0B-8405-0D9612B5CD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359075B7-2B86-4D83-ACAB-96C034FD77EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359075B7-2B86-4D83-ACAB-96C034FD77EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359075B7-2B86-4D83-ACAB-96C034FD77EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359075B7-2B86-4D83-ACAB-96C034FD77EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5C601365-0B4F-4198-A30A-89A356E5FC9E}
+		SolutionGuid = {15A7B8AE-9869-4BDD-82B6-604F0837D3BA}
 	EndGlobalSection
 EndGlobal
